@@ -1,20 +1,23 @@
+<h1 align="left">Hello there!</h1>
+
 <table>
-  <tr>
-    <td>
+<tr>
+<td width="60%">
 
-<h1>Hello there!</h1>
+<p align="left">
+I'm Pranav M — an enthusiast of open hardware and RISC-V.<br>
+I work on SoCs, CPUs, and microarchitecture — mostly in <b>Bluespec</b>, <b>Verilog</b>, and sometimes <b>Rust</b>.<br>
+I've spent time with FPGAs and RTL, now building systems that boot real code.<br>
+I care about clean RTL, working systems, and understanding how real chips work.
+</p>
 
-I'm Pranav M — an open hardware and RISC-V enthusiast.  
-I work on SoCs, CPUs, and microarchitecture usually in Bluespec, Verilog, and sometimes Rust.  
-I've spent time with FPGAs and clean RTL, now building systems that boot real code.  
-Always curious about how real chips work, straight from the ground up.
-
-> open source all the way — always down to chat RISC-V, digital design, or fun side projects.
+<pre><code>open source all the way — always down to chat RISC-V, digital design, or fun side projects.</code></pre>
 
 </td>
-<td>
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranav0x0112&show_icons=true&hide_rank=false&theme=default" />
+<td width="40%" align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=pranav0x0112&show_icons=true&hide_rank=true&theme=default" />
 
 </td>
 </tr>
