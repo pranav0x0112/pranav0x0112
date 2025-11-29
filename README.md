@@ -1,7 +1,7 @@
 ## Hi, I'm Pranav M
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pranav0x0112&theme=holi&show_icons=true&hide_rank=false" width="300">
+  <img align="right" src="https://github-readme-stats-sigma.five.vercel.app/api?username=pranav0x0112&theme=holi&show_icons=true&hide_rank=false" width="400">
 
   open hardware and RISC-V enthusiast.<br><br>
   i work on SoCs, CPUs, and microarchitecture —<br>
